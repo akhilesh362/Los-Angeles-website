@@ -1,0 +1,105 @@
+.the-band-section-container{
+  max-width:800px;
+  padding-top:64px;
+  padding-bottom:110px;
+  padding-left:16px;
+  padding-right:16px;
+  margin:auto;
+}
+.the-band{
+  color:black;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 4px;
+  margin-bottom:25px;
+  text-align: center;
+}
+.we-love-music{
+  font-style: italic;
+  font-size:15px;
+  margin-bottom:20px;
+  text-align: center;
+  opacity:0.60;
+}
+.the-band-section-para{
+ font-size: 15px;
+ text-align: justify;
+ line-height:22px;
+ margin-bottom:60px;
+}
+.the-band-section-div{
+  width:100%;
+}
+.name{
+  color:black;
+  font-size:15px;
+  margin-bottom:20px;
+}
+.band-member-image{
+  width:60%;
+  border-radius:4px;
+}
+.band-member-div{
+  width:100%;
+}
+.band-member-div-container{
+  width:100%;
+  text-align: center;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.tour-date-container{
+  background-color: black;
+}
+.tour-date-contentes-div{
+  max-width: 800px;
+  padding-top:64px;
+  padding-bottom:64px;
+  padding-left:16px;
+  padding-right:16px;
+  margin:auto;
+  
+}
+.tour-date-div h2{
+  color:white;
+  letter-spacing: 4px;
+  font-weight: normal;
+  font-size:30px;
+  margin-bottom:18px;
+  text-align: center;
+}
+.tour-date-div p{
+  font-size:15px;
+  color:rgb(183, 183, 183);
+  padding-bottom:40px;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+}
+.ul-class{
+  background-color: white;
+  color:#757575;
+  list-style-type: none;
+  font-size:14px;
+  border:1px solid #ccc;
+  border-bottom:none;
+}
+.li-class{
+  border-bottom:1px solid #ddd;
+  padding:10px 16px;
+}
+.sold-out{
+  margin-left:15px;
+  background-color: tomato;
+  color:white;
+  padding:2px 5px;
+}
+.three{
+  float: right;
+  background-color: black;
+  color:white;
+  padding:0px 8px;
+  border-radius:50%;
+  margin-right:16px;
+  font-size:15px;
+}

@@ -1,0 +1,71 @@
+.contact-container{
+  max-width: 800px;
+  padding-top:64px;
+  padding-bottom:64px;
+  padding-left:16px;
+  padding-right:16px;
+  margin: auto;
+}
+.contact{
+  font-weight: 400;
+  text-align: center;
+  font-size: 30px;
+  letter-spacing:4px;
+  margin-bottom:10px;
+}
+.note-italic{
+  text-align: center;
+  opacity: 0.60;
+  margin:15px 0px;
+}
+.contact-details-div{
+  width:100%;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+.icons-div{
+  width:50%;
+  float: left;
+}
+.span-sample{
+  vertical-align: middle;
+  font-size:18px;
+  margin-left:10px;
+}
+.name-mail-div{
+  width:100%;
+}
+input{
+  float:left;
+  padding:8px;
+  border: 1px solid #ccc;
+  font-size:15px;
+  max-width: 100%;
+}
+.name-div,
+.mail-div
+{
+ max-width:48%;
+ float: left;
+}
+.name-div{
+  margin-right:15px;
+  margin-left:-5px;
+}
+.message{
+  width:100%;
+  margin-left: -5px;
+  margin-top:7px;
+}
+.send-button{
+  float: right;
+  margin-right: 5px;
+  background-color: black;
+  color:white;
+  border:none;
+  font-size:15px;
+  margin-top:16px;
+  margin-bottom:16px;
+  padding:8px 16px;
+  cursor: pointer;
+}
